@@ -1,0 +1,41 @@
+Exercises
+
+Ex1:
+Write a function, which takes a firstname and lastname as arguments and returns a string, which joins the supplied
+firstname and lastname together, with each part capitalized.
+
+Hint: You should endeavour to use 2 functions, the main one and another, which capitalises a any give string.
+
+Ex2:
+Create a function which takes a list of numbers and returns the average
+
+Ex3:
+Write some re-usable code, which examines a string and returns the number of vowels.
+
+Ex4:
+Create a program that loops through a series of consecutive numbers, 1-100. Where each number is a multiple
+of 3, print the word 'top', where it is a multiple of 5, print 'hat', but if the number is a multiple of both 3 and 5,
+print 'tophat' instead.
+
+Ex5:
+Write a code snippet that returns the reverse of any supplied string value.
+
+Ex6:
+Create a division function that performs as normal, but also checks if the user attempts a divide by zero and if found,
+alerts the user.
+
+Ex7:
+Write some code that takes a list of songs and a song to search for. It should return whether
+thats the first song, third song, etc.
+Hint: the first song has an index of value 0
+
+Ex8:
+Create some code that works as a totaliser, without the use of a variable outside the scope of the main function.
+Hint: use a function(called totaliser), which in turn returns another function, which takes a value to add
+to the current total. Now use that function many times to alter the total.
+
+Ex9:
+Write a program that takes a string and returns all the even characters of that string as an array.
+
+Ex10:
+Create a function that returns the list of properties for a given array.
